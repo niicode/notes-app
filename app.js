@@ -17,7 +17,7 @@ yargs.command({
             type: 'string'
         },
         body:{
-            describe: 'Add text here',
+            describe: 'This is the not body'
             demandOption: true,
             type: 'string'
         }
